@@ -32,7 +32,7 @@ var products = require("./models/products.model");
 var config = require('./config/database.js');
 var mongoose = require('mongoose');
 console.log(config.url)
-mongoose.connect(config.url, { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect(config.url)
   .then(() => console.log('Kết nối database thành công'))
   .catch(err => console.error('Kết nối database thất bại:', err));
 
