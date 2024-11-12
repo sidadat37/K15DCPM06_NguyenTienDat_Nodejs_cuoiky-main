@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "662266e9c4479a4bbc6d335d"
+  },
+  "namecate": "Vinfast ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662266f0c4479a4bbc6d335e"
+  },
+  "namecate": "vespa",
+  "__v": 0
+}]

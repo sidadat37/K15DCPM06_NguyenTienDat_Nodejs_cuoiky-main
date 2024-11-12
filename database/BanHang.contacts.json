@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "662269bec4479a4bbc6d3365"
+  },
+  "name": "Nguyễn Văn User",
+  "email": "user",
+  "address": "V",
+  "title": "mua lại cty và nhà máy sản xuất xe máy điện ",
+  "note": "500 tỷ chốt giá",
+  "ngaygui": {
+    "$date": "2024-04-19T12:55:26.393Z"
+  },
+  "__v": 0
+}]

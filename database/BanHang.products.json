@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66226744c4479a4bbc6d335f"
+  },
+  "image": "1713530692271-1713230359826-vespa-lx-150i-jvc-ghi.png",
+  "name": "vespa Gray",
+  "cateID": "662266f0c4479a4bbc6d335e",
+  "quantity": "10",
+  "note": "Thiết kế hiện đại đầy khác biệt. Tổng thể cân đối, tao nhã và thời trang với phong cách thiết kế thanh thoát, tinh tế từng chi tiết.  Kích thước tầm trung phù hợp người Việt tạo cho cảm giác lái thoải mái, êm ái trên nhiều loại địa hình.",
+  "price": "26000000",
+  "date": {
+    "$date": "2024-04-19T12:44:52.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6622676ac4479a4bbc6d3360"
+  },
+  "image": "1713530730806-1713236903965-img-evo-yellow (1).png",
+  "name": "vinfast evo200",
+  "cateID": "662266e9c4479a4bbc6d335d",
+  "quantity": "23",
+  "note": "Tăng công suất động cơ. Tăng tốc độ lớn nhất cho phép tăng quãng đường di chuyển tối đa lên tới 198 km/lần sạc trong điều kiện tiêu chuẩn. Giảm thiểu tiêu hao không cần thiết. Ổn định & an toàn hơn, chống cháy nổ trên mọi trường hợp. Theo điều kiện tiêu chuẩn của VinFast. Điều kiện vận hành tiêu chuẩn: xe chở 1 người 65 kg di chuyển với vận tốc 30 km/giờ.",
+  "price": "37500000",
+  "date": {
+    "$date": "2024-04-19T12:45:30.823Z"
+  },
+  "__v": 0
+}]

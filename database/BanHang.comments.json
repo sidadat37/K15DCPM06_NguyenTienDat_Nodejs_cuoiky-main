@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66226858c4479a4bbc6d3363"
+  },
+  "uname": "User",
+  "idsp": "6622676ac4479a4bbc6d3360",
+  "note": "waooo, thật là hiện đại, tôi mà có tiền tui mua 10 chiếc :>>>",
+  "ngaygui": {
+    "$date": "2024-04-19T12:49:28.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66226872c4479a4bbc6d3364"
+  },
+  "uname": "User",
+  "idsp": "66226744c4479a4bbc6d335f",
+  "note": "OMG, chiếc này bóc đầu chắc là mượt lắm",
+  "ngaygui": {
+    "$date": "2024-04-19T12:49:54.925Z"
+  },
+  "__v": 0
+}]
